@@ -1,0 +1,9 @@
+// Daluchi Okafor
+// 24/0552
+
+const score = 75;
+
+// Ternary operator: condition ? true : false
+const result = (score >= 50) ? "Daluchi passed" : "Daluchi failed";
+
+console.log(result);
